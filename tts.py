@@ -1,3 +1,4 @@
+#pip install translate streamlit torch pyttsx3 SpeechRecognition PyAudio transformers
 import os
 import pyttsx3
 from translate import Translator
